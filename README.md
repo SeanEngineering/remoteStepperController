@@ -8,8 +8,12 @@ To get this to work the following objectives will need to be understood:
 -   Identify Gcode command logic.
 -   Identify how to establish a serial communication to the controller.
 -   Identify how to send a command over the serial port.
+-   Convert Gcode to byte information.
+-   Create basic movement functions
 
 The universal g-code controller (UGS) will be used as a reference point to understand the basics (https://github.com/winder/Universal-G-Code-Sender)
+
+This code is written in Python.
 
 ## Gcode Command logic
 
