@@ -21,4 +21,4 @@ The frontend will be written in React using Vite (pending).
 
 How Gcode works: https://howtomechatronics.com/tutorials/g-code-explained-list-of-most-important-g-code-commands/
 
--   G01 X Y F50 will be used for initial testing.
+-   G92 X Y Z will be passed over serial to the controller at the beginning and end.
