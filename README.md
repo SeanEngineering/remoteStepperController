@@ -13,7 +13,9 @@ To get this to work the following objectives will need to be understood:
 
 The universal g-code controller (UGS) will be used as a reference point to understand the basics (https://github.com/winder/Universal-G-Code-Sender)
 
-This code is written in Python.
+The project backend was created using Django.
+
+The frontend will be written in React using Vite (pending).
 
 ## Gcode Command logic
 
